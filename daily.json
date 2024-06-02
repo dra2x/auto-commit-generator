@@ -1,0 +1,7 @@
+{
+  "commitMessage": "Auto Commit Generator",
+  "gitUserName": "github-username",
+  "gitUserEmail": "github@email.com",
+  "minCommitCount": 1,
+  "maxCommitCount": 1
+}

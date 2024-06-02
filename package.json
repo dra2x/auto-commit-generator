@@ -1,0 +1,12 @@
+{
+  "name": "Auto_Commit_Generator",
+  "version": "1.0.0",
+  "description": "uses GitHub Actions to automatically generate commits daily or on specific dates chosen by the user.",
+  "main": "commit.js",
+  "scripts": {
+    "start": "node commit.js"
+  },
+  "dependencies": {
+    "date-fns": "^2.27.0"
+  }
+}
