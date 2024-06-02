@@ -1,6 +1,7 @@
 ### Auto Commit Generator
 
-<img width="1169" alt="" src="https://github.com/love1ace/auto-commit/assets/147500032/a333cb9e-7f97-4b54-ba17-248694fc733d">
+<img width="1169" alt="" src="https://github.com/love1ace/auto-commit-generator/assets/147500032/63c1fd87-5548-47ec-8138-755881b05916">
+
 
 ## Introduction
 
@@ -10,11 +11,12 @@
 
 **Before**:
 
-<img width="765" alt="" src="https://github.com/love1ace/auto-commit/assets/147500032/4c2d6336-a768-46e4-9751-198db730d82b">
+<img width="765" alt="" src="https://github.com/love1ace/auto-commit-generator/assets/147500032/4ea979ed-ae8c-42fa-b2c9-95f3917483c2">
+
 
 **After**:
 
-<img width="765" alt="" src="https://github.com/love1ace/auto-commit/assets/147500032/73e40b1c-3fe1-42dc-a139-04f22d2e6ec0">
+<img width="765" alt="" src="https://github.com/love1ace/auto-commit-generator/assets/147500032/f2b237c9-5060-47a1-9287-87ed85cb849b">
 
 ## Features
 
@@ -45,7 +47,8 @@
    - Generate a new token in [GitHub Settings](https://github.com/settings/tokens).
    - Required permission: `repo`
      
-<img width="765" alt="" src="https://github.com/love1ace/auto-commit/assets/147500032/3a4177a4-7de7-4613-9f68-5e6f519a8f19">
+<img width="776" alt="" src="https://github.com/love1ace/auto-commit-generator/assets/147500032/bcd1d125-7ab1-4140-9769-1a6f9a6afdf1">
+
 
 3. **Set Up GitHub Secrets**
    1. Go to the GitHub page of the forked repository.
